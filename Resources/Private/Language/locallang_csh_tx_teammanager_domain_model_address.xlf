@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2019-08-30T11:50:03Z" product-name="team_manager">
+		<header/>
+		<body>
+			<trans-unit id="street.description">
+				<source>street</source>
+			</trans-unit>
+			<trans-unit id="zip.description">
+				<source>zip</source>
+			</trans-unit>
+			<trans-unit id="town.description">
+				<source>town</source>
+			</trans-unit>
+			<trans-unit id="p_o_box.description">
+				<source>pOBox</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

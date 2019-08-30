@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2019-08-30T11:50:03Z" product-name="team_manager">
+		<header/>
+		<body>
+			<trans-unit id="club_name.description">
+				<source>clubName</source>
+			</trans-unit>
+			<trans-unit id="about.description">
+				<source>about</source>
+			</trans-unit>
+			<trans-unit id="found_date.description">
+				<source>foundDate</source>
+			</trans-unit>
+			<trans-unit id="staff.description">
+				<source>staff</source>
+			</trans-unit>
+			<trans-unit id="teams.description">
+				<source>teams</source>
+			</trans-unit>
+			<trans-unit id="address.description">
+				<source>address</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

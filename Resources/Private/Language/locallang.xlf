@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2019-08-30T11:50:03Z" product-name="team_manager">
+		<header/>
+		<body>
+			<trans-unit id="tx_teammanager_domain_model_club">
+				<source>Club</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_club.club_name">
+				<source>Club Name</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_club.about">
+				<source>About</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_club.found_date">
+				<source>Found Date</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_club.staff">
+				<source>Staff</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_club.teams">
+				<source>Teams</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_club.address">
+				<source>Address</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_team">
+				<source>Team</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_team.team_name">
+				<source>Team Name</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_team.team_info">
+				<source>Team Info</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_team.players">
+				<source>Players</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_team.activities">
+				<source>Activities</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_team.level">
+				<source>Level</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_team.stuff">
+				<source>Stuff</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_staff">
+				<source>Staff</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_staff.roles">
+				<source>Roles</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_player">
+				<source>Player</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_activity">
+				<source>Activity</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_activity.activity_title">
+				<source>Activity Title</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_activity.meettime">
+				<source>Meettime</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_activity.activity_goal">
+				<source>Activity Goal</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_activity.address">
+				<source>Address</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_address">
+				<source>Address</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_address.street">
+				<source>Street</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_address.zip">
+				<source>Zip</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_address.town">
+				<source>Town</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_address.p_o_box">
+				<source>P O Box</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_level">
+				<source>Level</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_level.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_level.info">
+				<source>Info</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_role">
+				<source>Role</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_role.role_title">
+				<source>Role Title</source>
+			</trans-unit>
+			<trans-unit id="tx_teammanager_domain_model_role.description">
+				<source>Description</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

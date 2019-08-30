@@ -1,0 +1,29 @@
+
+config.tx_extbase {
+  persistence {
+    classes {
+
+      TYPO3\CMS\Extbase\Domain\Model\FrontendUser {
+        subclasses {
+          Tx_TeamManager_Staff = BisratK\TeamManager\Domain\Model\Staff
+          Tx_TeamManager_Player = BisratK\TeamManager\Domain\Model\Player
+          
+        }
+      }
+      BisratK\TeamManager\Domain\Model\Staff {
+        mapping {
+          tableName = fe_users
+          recordType = Tx_TeamManager_Staff
+        }
+      }
+
+      BisratK\TeamManager\Domain\Model\Player {
+        mapping {
+          tableName = fe_users
+          recordType = Tx_TeamManager_Player
+        }
+      }
+
+    }
+  }
+}

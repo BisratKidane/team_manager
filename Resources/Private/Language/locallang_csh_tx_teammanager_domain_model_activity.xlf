@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2019-08-30T11:50:03Z" product-name="team_manager">
+		<header/>
+		<body>
+			<trans-unit id="activity_title.description">
+				<source>activityTitle</source>
+			</trans-unit>
+			<trans-unit id="meettime.description">
+				<source>meettime</source>
+			</trans-unit>
+			<trans-unit id="activity_goal.description">
+				<source>activityGoal</source>
+			</trans-unit>
+			<trans-unit id="address.description">
+				<source>address</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
